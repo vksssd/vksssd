@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vksssd
-- 👀 I’m interested in web and native application development
-- 🌱 I’m currently learning server designing
+- 👀 I’m interested in web, native application development, devOps and software engineering
+- 🌱 When i'm free, i look for enhancement of my skills and skillset
 - 🦾 working on new programming language 
 <!---
 vksssd/vksssd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
