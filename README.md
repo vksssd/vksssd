@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vksssd
-- 👀 I’m interested in web, native application development, devOps and software engineering
+- 👀 I’m interested in web, native application development, devOps, MLOps and software engineering
 - 🌱 When i'm free, i look for enhancement of my skills and skillset
 - 🦾 working on new programming language 
 <!---
