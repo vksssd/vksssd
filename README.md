@@ -55,7 +55,7 @@ Expected Graduation: Aug 2024 | CGPA: 8.5/10
 
 ## EXPERIENCE
 **Teaching Assistant, Coding Ninjas**
-Jun 2023 - Present
+Aug 2022 - Nov 2022
 - Mentored 300+ students in Data Structures and Algorithms
 - Conducted doubt-solving sessions and provided code reviews to improve problem-solving skills
 
@@ -63,9 +63,6 @@ Jun 2023 - Present
 - **Smart India Hackathon 2023**: Developed an AI-powered crop disease detection system
 - **Kawatch Hackathon 2022**: Created a blockchain-based supply chain tracking solution
 
-## CERTIFICATIONS
-- AWS Certified Cloud Practitioner
-- Google Associate Android Developer
 
 ## SOFT SKILLS
 Leadership, Problem-solving, Team Collaboration, Time Management, Adaptability, Continuous Learning
