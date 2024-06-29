@@ -61,7 +61,7 @@ Aug 2022 - Nov 2022
 
 ## HACKATHONS & COMPETITIONS
 - **Smart India Hackathon 2023**: Developed an AI-powered crop disease detection system
-- **Kawatch Hackathon 2022**: Created a blockchain-based supply chain tracking solution
+- **Kawatch Hackathon 2022**: Created ML based Mess Network Analysis and  tracking solution
 
 
 ## SOFT SKILLS
