@@ -17,12 +17,12 @@ Expected Graduation: Aug 2024 | CGPA: 8.5/10
 ## TECHNICAL SKILLS
 - Languages: Java, Kotlin, JavaScript, Go, Python
 - Frontend: React.js, HTML, CSS
-- Backend: Node.js, Express.js, Golang
+- Backend: Node.js, Express.js, Golang, Spring-boot
 - Mobile: Android development
 - Databases: MySQL, MongoDB, PostgreSQL, Redis, pgSQL
 - Cloud & DevOps: AWS, Docker, Kubernetes, CircleCI, GitHub Actions, ArgoCD
 - Messaging & Streaming: Kafka, RabbitMQ
-- APIs: RESTful, gRPC, WebSocket, WebRTC
+- APIs: RESTful, gRPC, WebSocket, WebRTC, webhooks
 - Other: System Design, OS concepts, Data Structures, Algorithms, Compiler Design, Microservices, SDLC, QA-Testing, Stake Holder Management
 
 ## PROJECTS
