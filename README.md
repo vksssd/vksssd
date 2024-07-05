@@ -42,7 +42,8 @@ Aug 2022 - Nov 2022
 
 ## SOFT SKILLS
 Leadership, Problem-solving, Team Collaboration, Time Management, Adaptability, Continuous Learning
-## <div>YES I CAN DO THIS ALL <img src="https://media1.tenor.com/m/mvHC0Y8e6KAAAAAC/steve-rogers.gif" width=195 height=65/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExend2cHEyejNzcjB0eng3ZnFsOWtkc3JpZnphYWNwdnk0aG8xMjdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAF97ApRUNa0kHCOpX/giphy.gif" width=195 height=65/></div>
+## <div> <img src="https://media1.tenor.com/m/mvHC0Y8e6KAAAAAC/steve-rogers.gif" width=195 height=65/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExend2cHEyejNzcjB0eng3ZnFsOWtkc3JpZnphYWNwdnk0aG8xMjdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAF97ApRUNa0kHCOpX/giphy.gif" width=195 height=65/> <img src="https://i.ibb.co/BNfYfrG/Screenshot-2024-07-05-at-12-23-49-PM.png" alt="Screenshot-2024-07-05-at-12-23-49-PM" width=195 height=55/>
+</div>
 
 <div>
   <img src="https://cdn.dribbble.com/users/119562/screenshots/4022507/media/70587f381f26b7227ca2644b0f82cada.gif" width= 200 height= 155>
