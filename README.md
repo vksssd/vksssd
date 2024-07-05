@@ -12,7 +12,7 @@ India | vksssdks@gmail.com | +91 79799 63473 | github.com/vksssd
 **Bachelor of Technology in Computer Science and Engineering**
 Panipat Institute of Engineering and Technology, Panipat
 Expected Graduation: Aug 2024 | CGPA: 8.5/10
-## [https://drive.google.com/file/d/1DwG5-tRNR4hBdH4md1nYalq8Iv2w2H23/view?usp=share_link] Resume
+## [Resume](https://drive.google.com/file/d/1DwG5-tRNR4hBdH4md1nYalq8Iv2w2H23/view?usp=share_link)
 
 ## TECHNICAL SKILLS
 - Languages: Java, Kotlin, JavaScript, Go, Python
