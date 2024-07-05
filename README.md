@@ -9,7 +9,7 @@
 vksssd/vksssd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-India | vksssdks@gmail.com | +91 79799 63473 | github.com/vksssd</br>
+India | vksssdks@gmail.com | </br>
 
 ## EDUCATION
 **Bachelor of Technology in Computer Science and Engineering**
