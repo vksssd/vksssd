@@ -49,11 +49,11 @@ Leadership, Problem-solving, Team Collaboration, Time Management, Adaptability, 
     <img src="https://i.ibb.co/rGtJPWH/spring-boot.webp" alt="spring-boot" width=155 height=155/>
 
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ6b3dmN3JkeGY0NHdsYjRpZzI4ZDBuZnF2dnhudjRvNzB1djYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width= 155 height= 155>
   <img src="https://www.owebest.com/img/mern-stack/mern.png" width= 155 height= 155>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ6b3dmN3JkeGY0NHdsYjRpZzI4ZDBuZnF2dnhudjRvNzB1djYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width= 155 height= 155>
   <img src="https://media1.tenor.com/m/_orlGabJGLIAAAAC/1.gif" width= 195 height= 155>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZmZGU2bTI2ZzdkY2p0NXJ4cDB3cThoMzB2ODFtbXBjbWR6bHVlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" width=155 height=155/>
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG14bWtjZ3VvaDBmbnl2NnhxZHkwZWIxcGhpczEwODh1b3B0bGI1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width=155 height=155/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZmZGU2bTI2ZzdkY2p0NXJ4cDB3cThoMzB2ODFtbXBjbWR6bHVlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" width=155 height=155/>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlxZDduOGRnZWo5bzg2ZDVhZ2FiZWVzZTF5MWg1MGF1a3IybGt3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eUQe4sylGGrbRU5wvj/giphy_s.gif" width=155 height=155/>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHEycjNnb251ZnV4dTJ0ZmRjZDZuYXAwMjN5cGRjbDVwMWl3cHVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width=155 height=155/>
  
