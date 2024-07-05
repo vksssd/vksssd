@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vksssd
- (https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)
+ ![](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F)
 - 👀 I’m interested in web, native application development, devOps, MLOps and software engineering
 - 🌱 When i'm free, i look for enhancement of my skills and skillset
 - 🦾 working on new programming language 
