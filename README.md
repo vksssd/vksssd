@@ -2,7 +2,7 @@
 - 👀 I’m interested in web, native application development, devOps, MLOps and software engineering
 </br>
 <div>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width=155 height=155/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFzdjk1YXRzaHNrM3A4ejU3c2F5OTVlMnk1Ymx6NjgydG1vOW1yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width=155 height=155/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl0dWg3Mml4MHQxMXljbjV6Y2V1MXBmZ2t2ZWFwNncxMXA5M2NwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width=155 height=155/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width=155 height=155/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFzdjk1YXRzaHNrM3A4ejU3c2F5OTVlMnk1Ymx6NjgydG1vOW1yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width=155 height=155/> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl0dWg3Mml4MHQxMXljbjV6Y2V1MXBmZ2t2ZWFwNncxMXA5M2NwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width=155 height=155/> <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVkdHhqZW5oanB6c3ozM2p5MmE5bzFjOTBiNzJjN29tbjBza25nNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btSlEkVbvtjkW3K/giphy.gif" width=155 height=155/>
 </div>
 </br>
 - 🌱 When i'm free, i look for enhancement of my skills and skillset</br>
