@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vksssd
 - 👀 I’m interested in web, native application development, devOps, MLOps and software engineering
 </br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" align=center width=155 height=155/>
 </br>
 - 🌱 When i'm free, i look for enhancement of my skills and skillset</br>
 - 🦾 working on new programming language </br>
