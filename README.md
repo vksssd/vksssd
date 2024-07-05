@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vksssd
-![gif]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif))
+![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ5azR3c2FkaDJ0Ym1vaW5ycG1mMmkyZXUyNXlqN3d5bjVpMnRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 - 👀 I’m interested in web, native application development, devOps, MLOps and software engineering
 - 🌱 When i'm free, i look for enhancement of my skills and skillset
 - 🦾 working on new programming language 
