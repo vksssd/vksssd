@@ -17,11 +17,11 @@ Expected Graduation: Aug 2024 | CGPA: 8.5/10
 ## [Resume](https://drive.google.com/file/d/1DwG5-tRNR4hBdH4md1nYalq8Iv2w2H23/view?usp=share_link)
 
 ## TECHNICAL SKILLS
-- Languages: Java, Kotlin, JavaScript, Go, Python
-- Frontend: React.js, HTML, CSS
-- Backend: Node.js, Express.js, Golang, Spring-boot
-- Mobile: Android development
-- Databases: MySQL, MongoDB, PostgreSQL, Redis, pgSQL
+- Languages:  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> , Java
+- Frontend: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  , React.js
+- Backend: Node.js , Express.js, <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> , Spring-boot
+- Mobile development: <img src="https://cdn.simpleicons.org/android/000/fff" alt="Android" width=25 height=25> Android 
+- Databases: MySQL, MongoDB, PostgreSQL, Redis, pgSQL <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
 - Cloud & DevOps: AWS, Docker, Kubernetes, CircleCI, GitHub Actions, ArgoCD
 - Messaging & Streaming: Kafka, RabbitMQ
 - APIs: RESTful, gRPC, WebSocket, WebRTC, webhooks
