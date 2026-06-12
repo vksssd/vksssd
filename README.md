@@ -8,7 +8,7 @@ I build efficient, high-performance machine learning systems for resource-constr
   - *Key Result:* 6.4x memory reduction (0.225 MB footprint) while maintaining 97.4% accuracy.
   - *Techniques:* TTQ, STE, DWS Convolutions, ONNX benchmarking.
   
-- [**GLADtoText**](https://link-to-glad-repo): A dependency-free C++17 NLP engine for high-throughput text embedding and classification. 
+- [**GLADtoText**](https://github.com/vksssd/GLADtoText): A dependency-free C++17 NLP engine for high-throughput text embedding and classification. 
   - *Key Result:* Sub-millisecond inference and 4k–10k examples/sec throughput.
   - *Techniques:* Sparse matrix handling, pruning, self-attention without heavy frameworks.
 
