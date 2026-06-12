@@ -14,7 +14,7 @@ I build efficient, high-performance machine learning systems for resource-constr
 
 ### 🛠 Tech Stack
 
-*   **Languages:** Python (Advanced), C++17 (Systems/Embedded)
+*   **Languages:** Python, C++, Golang, Kotlin Android
 *   **ML & Research:** PyTorch, ONNX, Model Quantization, Computer Vision
 *   **Engineering:** Linux/Unix, Git, Parallel Computing, CI/CD
 
